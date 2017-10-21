@@ -138,9 +138,7 @@ class Controls extends Component {
           <img className={this.state.beer} src={beer} />
         </div>
 
-        <div className="glasses-box">
-          <img className={this.state.glasses} src={sunGlasses} />
-        </div>
+
 
         <section className={this.state.dashBoard}>
           <img className="dashboard" src={dashboard} />
